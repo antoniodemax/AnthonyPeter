@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony Peter O.O</h1>
-<h3 align="center">🚀 Backend Developer | UI/UX-Aware Engineer | Team Collaborator I'm a passionate software developer with hands-on experience in JavaScript, Node.js, Flask, Python, and Django. I specialize in building robust and scalable backend systems while maintaining a strong sense for responsive UI/UX design. I believe in writing clean code, collaborating effectively, and delivering intuitive user experiences.</h3>
+<h1 align="center">Hello there👋, I'm Anthony Peter Odhiambo</h1>
+<h3 align="center">🚀 Backend Developer | UI/UX-Aware Engineer | Team Collaborator I'm a passionate software developer with hands-on experience in JavaScript, Node.js, Flask, Python, and Django. I specialize in building robust and scalable backend systems while maintaining a strong sense in responsive UI/UX design. I believe in writing clean code, collaborating effectively, and delivering intuitive user experiences.</h3>
 
 # 💫 About Me:
  🌱 I’m currently learning **Advanced backend frameworks DevOps fundamentals (Docker, AWS) Scalable architecture design patterns**<br><br>- 💬 Ask me about **React and integrating frontend animations with backend services**<br><br>- 📫 How to reach me **anthonypeterodhiambo@gmail.com**<br><br>- 📄 Know about my experiences [/home/anthony/Downloads/resume.pdf](/home/anthony/Downloads/resume.pdf)<br>
